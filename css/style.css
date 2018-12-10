@@ -1,0 +1,32 @@
+.bg {
+	background-image: backg;
+}
+
+.title {
+	text-align: center;
+}
+
+.facebook {
+	width: 25px;
+	height: 25px;
+}
+
+.pont {
+	list-style-position: inside;
+	text-align: center;
+
+}
+
+.text {
+	direction: ltr;
+}
+
+.instagram {
+	width: 30px;
+	height: 30px;
+}
+
+.twitter {
+	width: 35px;
+	height: 35px;
+}
